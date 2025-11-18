@@ -1,0 +1,5 @@
+Standard
+- https://github.com/mc-b/duk/tree/master/data/jupyter
+
+Erweiterte
+- https://github.com/mc-b/duk-demo/tree/master/data/jupyter/demo
